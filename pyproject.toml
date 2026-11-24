@@ -1,0 +1,12 @@
+[project]
+name = "chamados-ads"
+version = "0.1.0"
+description = "API de chamados de suporte com Flask"
+readme = "README.md"
+authors = [
+    { name = "Saulo-victo", email = "saulovicto01@gmail.com" }
+]
+requires-python = ">=3.14"
+dependencies = [
+    "flask>=3.1.3",
+]
